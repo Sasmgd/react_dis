@@ -1,0 +1,9 @@
+.bigcube {
+    width: 500px;
+    height: 500px;
+    background-color: green;
+    border: 20px solid rgb(255, 119, 0);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
